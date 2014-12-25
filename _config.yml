@@ -7,11 +7,11 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Sundeep B
+title:            Sundeep
 tagline:          'Blog'
 description:      'Notes and thoughts about all computer related stuff'
 url:              http://sundeepb.github.io/blog/
-baseurl:          http://sundeepb.github.io/blog/
+baseurl:          /
 
 author:
   name:           'Sundeep B'
