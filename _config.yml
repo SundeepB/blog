@@ -11,7 +11,7 @@ title:            Sundeep
 tagline:          'Blog'
 description:      'Notes and thoughts about all computer related stuff'
 url:              http://sundeepb.github.io/blog/
-baseurl:          /blog/
+baseurl:          /blog
 
 author:
   name:           'Sundeep B'
