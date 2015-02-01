@@ -1,0 +1,20 @@
+---
+layout: post
+title: Imagineering and Legitimate Peripheral Participation
+---
+
+This year [r/compsci](http://www.reddit.com/r/compsci) is discussing a technical paper every 2 weeks([r/math](http://reddit.com/r/math) also). See the initiation discussion [here](http://www.reddit.com/r/compsci/comments/2qjrdv/would_anyone_be_interested_in_reading_a_paper/). The first week, papers are nominated and voted(hidden vote score and randomized order on every page load) and the paper with most votes will be discussed for a week. Teachnical papers are a great way to gain knowledge without having to read large books. I take prints from office and read them at liesure. Depending on content, I give the paper two or three reads, each read taking less time than previous. For papers I like, I keep them safe and give them a re-read after a few months.
+
+Having found time before the voting closed, I picked one of the easy reads [nominated](http://www.reddit.com/r/compsci/comments/2qmghc/paper_nominations_and_voting_thread/cn7gp1i) which turned out to be quite an interesting read. It's a paper titled
+
+>Imagineering inauthentic legitimate peripheral participation: an instructional design approach for motivating computing education
+
+The **abstract** pretty much sums up what the paper is about
+
+>Since its publication, Lave and Wenger's concept of legitimate peripheral participation (LPP) [18] has become an important concept for understanding situated learning. LPP states that learning only occurs when students perceive that what's being taught is aligned with their goals (in LPP terms, with the students' perceived community of practice). This has implications for our traditional CS courses (e.g., are we teaching what the students perceive as being relevant for their future careers?), but even greater implications for courses for non-CS majors. When computer science educators are asked to teach non-CS majors, we are often placed in the position of teaching in alignment with a community of practice that does not, or does not yet, exist. In that sense, our teaching is inauthentic---not aligned with a community of practice. However, there is the possibility that we can generate a perception of authenticity or alignment. We use the example of two classes at Georgia Tech that seem successful by several measures, yet suffer this inauthenticity. We propose that a useful tool for understanding how these classes work is the Disney Corporation's Imagineering---their process of story-telling in three-dimensions as used in their theme parks. However, in the end, we find that what students actually learn is not necessarily the story that we are telling them, which points toward future research.
+
+My learning from this paper is more about teaching and learning than it is about computer science or teaching computer science. The paper is about the approach the authors took while teaching a course and how encouraging the results were. They start by explaining the general theory, called `Legitimate Peripheral Participation(LPP)` and how they adopted the approach in their classroom teaching.
+
+The idea was first discussed in a book 'Situated Learning: Legitimate Peripheral Practicipation' by Lave and Wenger. The idea is that each subject has a community of practice, as in, the community of people who put their knowledge to practical use. They argue that understanding the social context is critical to understanding learning. Their argument is supported by what is called apprenticeship-based learning, the learning that we often see in many trades like tailoring, restaurant business, accounting, butchery, etc.. The apprentice either already has knowledge about the subject or starts with zero knowledge. His master, who has been practising the trade for long, will get the apprentice started with tasks that are on the periphery, but still are legitimate and authentic to the job at hand. 
+
+The experts in the field are at the center of their community of practice, helping and directing others by direct advice or through their work. However, anyone starting to learn the field are at the periphery of the community.
