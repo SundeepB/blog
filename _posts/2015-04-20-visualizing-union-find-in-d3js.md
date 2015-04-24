@@ -3,11 +3,14 @@ layout: post
 title: Visualizing Union Find Algorithm in d3.js
 ---
 
-Read about the algorithm at http://algs4.cs.princeton.edu/15uf/ . The algorithm is also explained in Coursera's Algorithms course by Robert Sedgewick and Kevin Wayne.
+<p data-height="570" data-theme-id="6323" data-slug-hash="Lgmnw" data-default-tab="result" data-user="SundeepB" class='codepen'>See the Pen <a href='http://codepen.io/SundeepB/pen/Lgmnw/'>Connected nodes</a> by Sundeep (<a href='http://codepen.io/SundeepB'>@SundeepB</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-See the pen at http://codepen.io/SundeepB/pen/Lgmnw
+Read about the Union Find algorithm [here](http://algs4.cs.princeton.edu/15uf/). The algorithm is also explained in Coursera's [Algorithms course by Robert Sedgewick and Kevin Wayne](https://www.coursera.org/course/algs4partI).
 
-Its implemented in the awesome D3 JS
+See the full code on [code pen](http://codepen.io/SundeepB/pen/Lgmnw)
+
+Its implemented in the awesome [D3 JS](http://d3js.org/)
 
 We start by defining an svg element in the HTML
 
@@ -136,9 +139,5 @@ var rootOf = function(a) {
   return a;
 }
 ```
-
-<p data-height="570" data-theme-id="6323" data-slug-hash="Lgmnw" data-default-tab="result" data-user="SundeepB" class='codepen'>See the Pen <a href='http://codepen.io/SundeepB/pen/Lgmnw/'>Connected nodes</a> by Sundeep (<a href='http://codepen.io/SundeepB'>@SundeepB</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
-
 
 While the implementation is over simplification of the algorithm, we can see it working quite well. However, for practical purposes, the algorithm can still be optimized depending on the needs.
