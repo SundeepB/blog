@@ -57,7 +57,9 @@ var cy = function(d) {
 
 A circle svg element looks like the following
 
-`<circle style="fill: rgb(218, 113, 26);" r="3" cy="394" cx="170"></circle>`
+```html
+<circle style="fill: rgb(218, 113, 26);" r="3" cy="394" cx="170"></circle>
+```
 
 While style is optional, r, cx and cy are required. Using D3
 
